@@ -1,3 +1,6 @@
+*.txt
+*.pkl
+autosklearn_out/
 .htaccess
 css.php
 rpc/
